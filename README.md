@@ -1,3 +1,3 @@
 # Golang
-Golang Repository\n
+Golang Repository
 Go Scripts for network automation
